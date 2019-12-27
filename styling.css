@@ -1,4 +1,5 @@
 /*Code by Siddharth (Starksid007) and Rahul (RahulGuptaNitro)*/
+
 html{
     height: 100%;
     background: radial-gradient(circle, #fff, #ccc);
@@ -184,8 +185,18 @@ html{
     display: none;
     position: absolute;
 }
+
 #made{
-    color:white;
+    color:pink;
     font-family: cursive;
-    line-height: 50px;
+    line-height:30px;
+}
+
+#htp{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-style:italic;
+    line-height: 0px;
 }
